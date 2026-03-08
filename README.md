@@ -13,6 +13,12 @@ Skills that make AI coding assistants more useful — neurodivergent support, Lo
 | [nd-focus-support](skills/nd-focus-support/) | Catches ADHD drift and nudges back on topic without judgment | Yes |
 | [nd-plural-support](skills/nd-plural-support/) | Warm check-in for plural systems with simple session logging | Yes |
 
+### Wellbeing
+
+| Skill | What It Does | Standalone? |
+|-------|-------------|-------------|
+| [sounding-board](skills/sounding-board/) | Active listening and talk-it-out space — reflects, asks light questions, reminds you of your own coping tools, knows when to refer out | Yes |
+
 ### AI Art & Training
 
 | Skill | What It Does | Standalone? |
