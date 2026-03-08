@@ -1,0 +1,8 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Markdown files
+*.md text eol=lf
+
+# JSON files
+*.json text eol=lf
