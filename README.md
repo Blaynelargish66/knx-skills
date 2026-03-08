@@ -1,8 +1,10 @@
-# Knx-Skills — Neurodivergent Support Skills for LLM Agents
+# Knx-Skills — Practical Skills for LLM Agents
 
-Skills that help AI coding assistants work effectively with neurodivergent developers. Built for Claude Code, works with any LLM agent that reads markdown.
+Skills that make AI coding assistants more useful — neurodivergent support, LoRA training guidance, and more. Built for Claude Code, works with any LLM agent that reads markdown.
 
 ## What's Included
+
+### Neurodivergent Support
 
 | Skill | What It Does | Standalone? |
 |-------|-------------|-------------|
@@ -10,6 +12,12 @@ Skills that help AI coding assistants work effectively with neurodivergent devel
 | [nd-frustration-support](skills/nd-frustration-support/) | Notices overwhelm signals and checks in gently — no therapy, no patronizing | Yes |
 | [nd-focus-support](skills/nd-focus-support/) | Catches ADHD drift and nudges back on topic without judgment | Yes |
 | [nd-plural-support](skills/nd-plural-support/) | Warm check-in for plural systems with simple session logging | Yes |
+
+### AI Art & Training
+
+| Skill | What It Does | Standalone? |
+|-------|-------------|-------------|
+| [lora-trainer-guide](skills/lora-trainer-guide/) | Preset selection + parameter reference for LoRA training — covers SD1.5, SDXL, SD3, Flux1 with 38 real-world presets | Yes |
 
 ## Install
 
@@ -43,8 +51,8 @@ See [SKILL_TEMPLATE.md](SKILL_TEMPLATE.md) for a fill-in-the-blank template.
 
 ## Future Skills
 
-See [SKILL_IDEAS.md](SKILL_IDEAS.md) for what's coming next (LoRA training, Kohya config reference, cloud GPU deployment, and more).
+See [SKILL_IDEAS.md](SKILL_IDEAS.md) for ideas in the pipeline (cloud GPU deployment, model architecture guide, and more).
 
 ## Contributing
 
-PRs welcome. If you've got a pattern that helps neurodivergent devs work with AI assistants, add it.
+PRs welcome. If you've got a useful pattern for AI assistants, add it.
